@@ -106,3 +106,8 @@ hi cursorim guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 cterm
 
 " Vim
 hi vimIsCommand guifg=#DFD238 guibg=NONE guisp=NONE gui=NONE ctermfg=105 ctermbg=NONE cterm=NONE
+
+
+" NERDTree
+hi NERDTreeDir guifg=#796BAF guibg=NONE guisp=#6a878f gui=NONE ctermfg=235 ctermbg=66 cterm=NONE
+hi NERDTreeUp guifg=#796BAF guibg=NONE guisp=#6a878f gui=NONE ctermfg=235 ctermbg=66 cterm=NONE
