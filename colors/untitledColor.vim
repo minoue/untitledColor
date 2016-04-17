@@ -16,7 +16,7 @@ let g:colors_name = "untitledColor"
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=#e8e8e8 guibg=#0f0f0f guisp=#0f0f0f gui=NONE ctermfg=254 ctermbg=233 cterm=NONE
+hi Normal guifg=#e8e8e8 guibg=#181818 guisp=#0f0f0f gui=NONE ctermfg=254 ctermbg=233 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi EnumerationValue -- no settings --
